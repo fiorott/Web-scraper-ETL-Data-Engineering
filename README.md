@@ -5,3 +5,7 @@ A web scraper in Python that:
 3) Organizes the data in a Dictionary with the help of Pandas Data frames 
 4) Builds a database in order to implement Machine learning algos 
 5) Runs every hour at a specific time and updates itself.
+
+Libraries used:
+
+pprint, csv, re, lxml ( html), requests, beautiful soup (bs4), pandas, numpy, datetime
